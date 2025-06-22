@@ -1,0 +1,18 @@
+# Configuração do servidor
+PORT=3000
+
+# Configuração do MongoDB
+MONGODB_URI=mongodb+srv://sistemaobrasbackend:EfuuNarzneEXcEZv@sistemaobras.bh3dqbd.mongodb.net/?retryWrites=true&w=majority&appName=SistemaObras
+#Email criado apenas para esta ATT - COM ACESSO TOTAL A IPS EXTERNOS. 
+#Acessar o Mongo DB Atlas com autenticação de tipo GMAIL. 
+#email : sistema.obras.backend@gmail.com
+#senha : Obras123
+
+# Configuração do (Nodemailer)
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_USER=SEU_EMAIL@gmail.com
+EMAIL_PASS=SENHA_DO_SENHA_APP  
+# Não depe ser a sneha do gmail, entre no LINK e crie uma senha com o titulo qualquer onde será gerada uma sneha apenas para consumo neste Back and
+#Segue link: https://myaccount.google.com/apppasswords?rapt=AEjHL4O9jvW-KJN5qJ_y9wfJzthWNlGdSyg85Hv1NOdWPaUtC5ll5aSP2WHSfl3VOKywPHcZvrNLu0prZElj1XZPIo6zZiaFWjPxFNotKQ61k6XRiEi8yxo
+
