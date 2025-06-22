@@ -364,7 +364,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 ## 🙏 Agradecimentos
 
-- Professor da disciplina de Análise e Projeto de Sistemas
+- Professor da disciplina de Análise e Projeto de Sistemas - https://www.linkedin.com/in/geraldogomes/
 - Documentação oficial do [Node.js](https://nodejs.org/), [Express](https://expressjs.com/) e [MongoDB](https://www.mongodb.com/)
 - Comunidade open source
 
